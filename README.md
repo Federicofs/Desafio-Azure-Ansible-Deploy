@@ -1,1 +1,0 @@
-# Desafio-Azure-Ansible-Deploy
